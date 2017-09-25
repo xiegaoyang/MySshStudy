@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyWebAjax:war">
+    <output-path>$PROJECT_DIR$/MyWebAjax/target</output-path>
+    <root id="archive" name="MyWebAjax.war">
+      <element id="artifact" artifact-name="MyWebAjax:war exploded" />
+    </root>
+  </artifact>
+</component>

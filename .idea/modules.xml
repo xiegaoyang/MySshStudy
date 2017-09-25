@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyHibernate/MyHibernate.iml" filepath="$PROJECT_DIR$/MyHibernate/MyHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMyBatis/MyMyBatis.iml" filepath="$PROJECT_DIR$/MyMyBatis/MyMyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpring/MySpring.iml" filepath="$PROJECT_DIR$/MySpring/MySpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpringJDBC/MySpringJDBC.iml" filepath="$PROJECT_DIR$/MySpringJDBC/MySpringJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpringMvc/MySpringMvc.iml" filepath="$PROJECT_DIR$/MySpringMvc/MySpringMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpringMybatis/MySpringMybatis.iml" filepath="$PROJECT_DIR$/MySpringMybatis/MySpringMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpringRedis/MySpringRedis.iml" filepath="$PROJECT_DIR$/MySpringRedis/MySpringRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySshStudy.iml" filepath="$PROJECT_DIR$/MySshStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebAjax/MyWebAjax.iml" filepath="$PROJECT_DIR$/MyWebAjax/MyWebAjax.iml" />
+    </modules>
+  </component>
+</project>

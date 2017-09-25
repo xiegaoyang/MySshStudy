@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="MyHibernate" />
+        <module name="MyMyBatis" />
+        <module name="MySpring" />
+        <module name="MySpringJDBC" />
+        <module name="MySpringMvc" />
+        <module name="MySpringMybatis" />
+        <module name="MySpringRedis" />
+        <module name="MyWebAjax" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="MyAjax" target="1.5" />
+      <module name="MyHibernate" target="1.5" />
+      <module name="MyMyBatis" target="1.5" />
+      <module name="MySpring" target="1.5" />
+      <module name="MySpringJDBC" target="1.5" />
+      <module name="MySpringMvc" target="1.5" />
+      <module name="MySpringMybatis" target="1.5" />
+      <module name="MySpringRedis" target="1.5" />
+      <module name="MySshStudy" target="1.5" />
+      <module name="MyWeb" target="1.5" />
+      <module name="MyWebAjax" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
